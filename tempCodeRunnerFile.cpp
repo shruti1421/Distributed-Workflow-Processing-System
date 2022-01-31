@@ -1,0 +1,1 @@
+g++ Solution.cpp -ljsoncpp
